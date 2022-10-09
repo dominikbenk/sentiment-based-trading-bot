@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+**/news_scraped.csv
+**/tweets_keywords.csv
+**/tweets_tickers.csv
